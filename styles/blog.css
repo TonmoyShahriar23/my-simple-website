@@ -1,3 +1,9 @@
 h3,p{
     background-color: aquamarine;
 }
+.blog{
+    margin: 10px;
+    border: 10px solid tomato;
+    border-radius: 10px;
+    padding: 10px;
+}
